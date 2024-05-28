@@ -1,7 +1,0 @@
-.idea
-sparkdesk_web/log
-dist
-build
-history
-sparkdesk_api/__pycache__
-sparkdesk_web/__pycache__

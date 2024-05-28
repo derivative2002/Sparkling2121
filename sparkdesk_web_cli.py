@@ -2,9 +2,8 @@
 """
 @Project : sparkdesk-api
 @File    : sparkdesk_web_cli.py
-@Author  : HildaM
-@Email   : Hilda_quan@163.com
-@Date    : 2023/7/6 19:07
+@Author  : Baitianlang
+
 @Description : 
 """
 from sparkdesk_web.core import SparkWeb
