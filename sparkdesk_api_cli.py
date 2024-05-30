@@ -1,9 +1,3 @@
-# -*- coding: UTF-8 -*-
-"""
-@Project : sparkdesk-api
-@File    : sparkdesk_api_cli.py
-
-"""
 from sparkdesk_api.core import SparkAPI
 
 if __name__ == '__main__':

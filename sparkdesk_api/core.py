@@ -211,7 +211,7 @@ class SparkAPI:
         print("Enter exit or stop to end the converation.\n")
         try:
             while True:
-                query = input("Ask: ")
+                query = input("请描述一下您的问题或者想要和我聊的: ")
                 if query == "exit" or query == "stop":
                     break
                 for response, _ in self.__streaming_output(query, history):
